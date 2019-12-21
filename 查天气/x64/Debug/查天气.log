@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/12/4 15:47:30。
+日志记录详细程度设置为: Normal。     1>项目“C:\Users\jiabh\source\repos\查天气\查天气.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Debug\查天气.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jiabh\source\repos\查天气\x64\Debug\查天气.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\jiabh\source\repos\查天气\x64\Debug\查天气.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jiabh\source\repos\查天气\x64\Debug\查天气.lib" /MACHINE:X64 x64\Debug\main.obj
+         查天气.vcxproj -> C:\Users\jiabh\source\repos\查天气\x64\Debug\查天气.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\查天气.tlog\unsuccessfulbuild”。
+         正在对“x64\Debug\查天气.tlog\查天气.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\jiabh\source\repos\查天气\查天气.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.38
